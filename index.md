@@ -13,7 +13,7 @@
 
 I am currently a **2nd year** at UC San Diego studying **computer science** In my free time, I enjoy photography and listening to podcasts. My favorite podcast lately has been [Waveform: The MKBHD Podcast](https://podcasts.voxmedia.com/show/waveform-the-mkbhd-podcast).
 
-[](https://podcasts.voxmedia.com/perch/resources/21vmpn011waveformsocial3000x3000.png)
+![](https://podcasts.voxmedia.com/perch/resources/21vmpn011waveformsocial3000x3000.png)
 
 ## Work Experience
 - CSE 12 head tutor
