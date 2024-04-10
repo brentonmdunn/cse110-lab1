@@ -2,4 +2,4 @@
 
 My favorite programming language is Python.
 
-Website: [https://brentonmdunn.github.io/cse110-lab1/](https://brentonmdunn.github.io/cse110-lab1/)
+Website: [https://cse110sp24.github.io/lab1/](https://cse110sp24.github.io/lab1/)
